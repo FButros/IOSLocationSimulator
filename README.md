@@ -18,7 +18,7 @@ Before using IOSLocationSimulator, make sure to install:
 
 ## Installation
 
-1. Download the latest release from the [GitHub repository](<github.com/FButros/IOSLocationSimulator/>).
+1. Download the latest release from the [GitHub repository].
 2. Execute the `IOSLocationSimulator_Setup.exe` file and follow the installation wizard.
    Note: the exe can be found in \bin\Release\net8.0\win-x(64 or 86 based on your system)\
 
@@ -57,4 +57,4 @@ IOSLocationSimulator is provided "as is" without warranty of any kind. Developer
 
 ## Support and Contact
 
-If you encounter any issues or have questions, feel free to open an issue in the [GitHub repository](<github.com/FButros/IOSLocationSimulator>).
+If you encounter any issues or have questions, feel free to open an issue in the [GitHub repository].

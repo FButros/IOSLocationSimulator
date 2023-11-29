@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "31jZbNAttNqQNKS2VEHXQFxHDwSdgkSntxJPSSWACIrZrS0SzOKRBOckwH7MurAC+VPQcewcoRYezlaRRC4Kbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phill\\Desktop\\30 Day Coding Challenge\\iOSLocationSimulator\\iOSLocationSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phill\\.nuget\\packages\\imobiledevice-net\\1.3.17\\imobiledevice-net.1.3.17.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.0\\microsoft.netcore.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
